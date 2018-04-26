@@ -11,7 +11,7 @@ setup(
     description="test",  
     license="MIT",   
     packages=['tidypage'], 
-    url="https://github.com/desion/tidy_page", 
+    url="https://github.com/BWman/textCNN", 
     classifiers=[  
         "Environment :: Web Environment",  
         "Intended Audience :: Developers",  
